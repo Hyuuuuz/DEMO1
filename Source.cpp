@@ -14,7 +14,7 @@ int main()
 	cin >> a;
 	cout << "Nhap b";
 	cin >> b;
-	cout << "Tong la: " << tong(a, b) << endln;
+	cout << "Tong la: " << tong(a, b);
 
 	system("pause");
 	return 0;

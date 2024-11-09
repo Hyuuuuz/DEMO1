@@ -37,7 +37,7 @@ int main()
 
 	cout << "Nhap a";
 	cin >> a;
-	cout<<soNT(a)
+	cout<<soNT(a);
 
 
 	//cout << "Nhap b";

@@ -8,6 +8,8 @@ int hieu(int a, int b);
 int tich(int a, int b) {
 	return a * b;
 }
+
+bool checkSHT;
 float thuong(int a, int b);
 int main()
 {
